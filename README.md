@@ -68,7 +68,9 @@ I love working across the stack, collaborating on ideas, and continuously improv
 ## 📫 Connect With Me
 
 📧 **Email:** shodhanshetty700@gmail.com 
-🧩 **LeetCode:** https://leetcode.com/u/shodhan777  
+
+🧩 **LeetCode:** https://leetcode.com/u/shodhan777 
+
 💼 **LinkedIn:** https://www.linkedin.com/in/shodhan-kumar-shetty-38b0002a9
 
 ---
