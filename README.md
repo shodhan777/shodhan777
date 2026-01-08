@@ -12,19 +12,26 @@ I'm a developer who enjoys building products that solve real-world needs — fro
 I love working across the stack, collaborating on ideas, and continuously improving both technical depth and software design thinking.
 
 **What interests me the most:**
-- System design & backend engineering  
-- Distributed & scalable systems  
-- Clean API design & database optimization  
+- System design & backend engineering
+  
+- Distributed & scalable systems
+  
+- Clean API design & database optimization
+    
 - User-centered product development  
 
 ---
 
 ## 🚀 Current Work & Status
 
-- 🛍 **Biowaste eCommerce Platform** — Real-time market matching *(Completed)*  
-- 🔐 **Lost & Found Management System** — Item matching algorithm *(Completed)*  
-- 📦 **Smart Inventory Management (Spring Boot)** — Vendor management, low stock alerts, REST APIs *(Completed)*  
-- 💰 **FinWise – Personal Finance Manager** — Expense tracking, budgeting & analytics *(In Progress)*  
+- 🛍 **Biowaste eCommerce Platform** — Real-time market matching *(Completed)*
+  
+- 🔐 **Lost & Found Management System** — Item matching algorithm *(Completed)*
+  
+- 📦 **Smart Inventory Management (Spring Boot)** — Vendor management, low stock alerts, REST APIs *(Completed)*
+  
+- 💰 **FinWise – Personal Finance Manager** — Expense tracking, budgeting & analytics *(In Progress)*
+  
 - 📊 Building tools for **local community services & reporting**
 
 ---
@@ -57,21 +64,11 @@ I love working across the stack, collaborating on ideas, and continuously improv
 
 ---
 
-## 🏗 Featured Projects
-
-🔹 **Biowaste Marketplace** *(Completed)* — Marketplace linking farmers & biofuel industry  
-🔹 **Lost & Found System** *(Completed)* — Automatic item matching + claim flow  
-🔹 **Smart Inventory (Spring Boot)** *(Completed)* — Inventory tracking + low-stock alerts 
-🔹 **FinWise (In Progress)** — Personal finance with budgeting & insights
-
-> 🚀 **Goal:** Build products that are simple, fast, and genuinely impactful.
-
----
 
 ## 📫 Connect With Me
 
-📧 **Email:** <img src="https://img.icons8.com/color/20/000000/gmail.png"/> **shodhanshetty700@gmail.com**  
-🧩 **LeetCode:** <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/000000/external-leetcode-a-platform-for-coding-interviews-logo-shadow-tal-revivo.png"/> https://leetcode.com/u/shodhan777  
+📧 **Email:** shodhanshetty700@gmail.com 
+🧩 **LeetCode:** https://leetcode.com/u/shodhan777  
 💼 **LinkedIn:** https://www.linkedin.com/in/shodhan-kumar-shetty-38b0002a9
 
 ---
