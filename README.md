@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Shodhan Shetty!
-**LinkedIn:** https://www.linkedin.com/in/shodhan-kumar-shetty-38b0002a9
+----
+# **LinkedIn:** https://www.linkedin.com/in/shodhan-kumar-shetty-38b0002a9
+
+
+-----
+
 💻 **Full Stack Developer (Node.js | React | MongoDB | MySQL)**  
 🎯 Focused on building scalable backend systems, clean UIs, and solving real-world problems.  
 🌱 Currently exploring **DevOps**, **System Design**, and **Cloud (AWS)**.
