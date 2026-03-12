@@ -1,83 +1,141 @@
-# 👋 Hi, I'm Shodhan Shetty!
-----
-# **LinkedIn:** https://www.linkedin.com/in/shodhan-kumar-shetty-38b0002a9
+<h1 align="center">Hi 👋, I'm Shodhan Shetty</h1>
+<h3 align="center">💻 CSE Student | Full Stack Developer | Problem Solver</h3>
 
+<p align="center">
+<a href="mailto:shodhanshetty700@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://linkedin.com/in/shodhan-kumar-shetty-38b0002a9">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
 
------
-
-💻 **Full Stack Developer (Node.js | React | MongoDB | MySQL)**  
-🎯 Focused on building scalable backend systems, clean UIs, and solving real-world problems.  
-🌱 Currently exploring **DevOps**, **System Design**, and **Cloud (AWS)**.
-
----
-
-## 👨‍💻 About Me
-
-I'm a developer who enjoys building products that solve real-world needs — from automating local services to improving financial awareness.  
-I love working across the stack, collaborating on ideas, and continuously improving both technical depth and software design thinking.
-
-**What interests me the most:**
-- System design & backend engineering
-  
-- Distributed & scalable systems
-  
-- Clean API design & database optimization
-    
-- User-centered product development  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Developer;React+Node+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🚀 Current Work & Status
+# 🚀 About Me
 
-- 🛍 **Biowaste eCommerce Platform** — Real-time market matching *(Completed)*
-  
-- 🔐 **Lost & Found Management System** — Item matching algorithm *(Completed)*
-  
-- 📦 **Smart Inventory Management (Spring Boot)** — Vendor management, low stock alerts, REST APIs *(Completed)*
-  
-- 💰 **FinWise – Personal Finance Manager** — Expense tracking, budgeting & analytics *(In Progress)*
-  
-- 📊 Building tools for **local community services & reporting**
+- 💻 Passionate about **Full Stack Development**
+- ⚡ Interested in **Backend Systems and Scalable APIs**
+- 🧠 Love solving **Data Structures & Algorithm problems**
+- 🚀 Building **real world web applications**
 
 ---
 
-## 🧰 Tech Stack & Tools
+# 🛠 Tech Stack
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+### 👨‍💻 Languages
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css" />
+</p>
 
-**Backend & Databases:**  
-![NodeJS](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
+### ⚙️ Frameworks & Libraries
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind" />
+</p>
 
----
+### 🗄 Databases
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-## 📫 Connect With Me
+### 🧰 Tools & Platforms
 
-📧 **Email:** shodhanshetty700@gmail.com 
-
-🧩 **LeetCode:** https://leetcode.com/u/shodhan777 
-
-💼 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
 
 ---
 
-### ✨ _"Code. Build. Optimize. Repeat."_
+# 📌 Featured Projects
+
+### 🌱 Biowaste eCommerce Platform
+
+Full stack platform connecting **farmers with biofuel industries**.
+
+**Tech Stack:** Node.js, Express, MongoDB, React
+
+Features:
+- Waste marketplace
+- Buyer & seller order system
+- Image upload using Multer
+- Address management
+- Seller order tracking
+- Real-time matching concept
+
+---
+
+### 🔎 Lost & Found Management System
+
+Web application to **report and recover lost items**.
+
+**Tech Stack:** React, Node.js, Express, MySQL
+
+Features:
+- Report lost or found items
+- Image upload support
+- Automatic item matching
+- Contact reporter system
+- Authentication
+
+---
+
+### 📦 Smart Inventory Management System
+
+Inventory system with analytics dashboard.
+
+**Tech Stack:** Spring Boot, React, MySQL
+
+Features:
+- Product & supplier management
+- Inventory tracking
+- Order monitoring
+- Low stock alerts
+- Dashboard analytics
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shodhan777&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodhan777&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shodhan777&theme=tokyonight" />
+
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shodhan777&theme=tokyo-night" />
+</p>
+
+
+
+# 🤝 Open to Collaboration
+
+I am open to collaborating on:
+
+- Full Stack Web Applications
+- Backend API Development
+- Open Source Projects
+- Problem Solving Projects
+
+  
