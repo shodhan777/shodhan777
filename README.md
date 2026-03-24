@@ -8,6 +8,9 @@
 <a href="https://linkedin.com/in/shodhan-kumar-shetty-38b0002a9">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a href="https://leetcode.com/shodhan777">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
+</a>
 </p>
 
 <p align="center">
@@ -18,35 +21,33 @@
 
 # 🚀 About Me
 
-- 💻 Passionate about **Full Stack Development**
-- ⚡ Interested in **Backend Systems and Scalable APIs**
-- 🧠 Love solving **Data Structures & Algorithm problems**
-- 🚀 Building **real world web applications**
+- 💻 Full Stack Developer  
+- ⚡ Backend & Scalable APIs  
+- 🧠 DSA Enthusiast  
+- 🚀 Building real-world apps  
 
 ---
+
+
 
 # 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind" />
 </p>
 
 ### 🗄 Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🧰 Tools & Platforms
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
@@ -55,60 +56,51 @@
 
 # 📌 Featured Projects
 
-### 🌱 Biowaste eCommerce Platform
+### 🌱 Agrigo - Biowaste eCommerce Platform
+Connects farmers with biofuel industries.
 
-Full stack platform connecting **farmers with biofuel industries**.
-
-**Tech Stack:** Node.js, Express, MongoDB, React
-
-Features:
-- Waste marketplace
-- Buyer & seller order system
-- Image upload using Multer
-- Address management
-- Seller order tracking
-- Real-time matching concept
+**Tech:** Node.js, Express, MongoDB, React  
+- Marketplace & order system  
+- Image upload & tracking  
+- Real-time matching  
 
 ---
 
 ### 🔎 Lost & Found Management System
+Platform to report and recover lost items.
 
-Web application to **report and recover lost items**.
-
-**Tech Stack:** React, Node.js, Express, MySQL
-
-Features:
-- Report lost or found items
-- Image upload support
-- Automatic item matching
-- Contact reporter system
-- Authentication
+**Tech:** React, Node.js, Express, MySQL  
+- Report & match items  
+- Image upload  
+- Authentication system  
 
 ---
 
 ### 📦 Smart Inventory Management System
+Inventory system with analytics.
 
-Inventory system with analytics dashboard.
+**Tech:** Spring Boot, React, MySQL  
+- Product & supplier management  
+- Stock alerts & dashboard  
 
-**Tech Stack:** Spring Boot, React, MySQL
+---
 
-Features:
-- Product & supplier management
-- Inventory tracking
-- Order monitoring
-- Low stock alerts
-- Dashboard analytics
+### 📸 Capture Incridea
+Event media platform for Incridea.
+
+**Tech:** TypeScript, Next.js, tRPC, Postgresql
+- 📸 Upload & manage event photos  
+- 🗂 Event-based categorization  
+- 🎭 Cultural playbacks (revisit performances & moments)  
+- 👤 Authentication system  (Role Based Access System)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=shodhan777&show_icons=true&theme=tokyonight" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodhan777&layout=compact&theme=tokyonight" />
-
 </p>
 
 ---
@@ -116,10 +108,17 @@ Features:
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shodhan777&theme=tokyonight" />
-
 </p>
+
+---
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/shodhan777?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
 
 # 📈 Contribution Graph
 
@@ -127,15 +126,11 @@ Features:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shodhan777&theme=tokyo-night" />
 </p>
 
-
+---
 
 # 🤝 Open to Collaboration
 
-I am open to collaborating on:
-
-- Full Stack Web Applications
-- Backend API Development
-- Open Source Projects
-- Problem Solving Projects
-
-  
+- Full Stack Projects  
+- Backend APIs  
+- Open Source  
+- DSA / Problem Solving  
